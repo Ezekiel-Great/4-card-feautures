@@ -30,7 +30,7 @@ Mobile-view
 Desktop-view
 ### Links
 
-- Solution URL: [4-card-feautures](https://github.com/Ezekiel-Great/4-card-feautures/tree/main))
+- Solution URL: [4-card-feautures](https://github.com/Ezekiel-Great/4-card-feautures/tree/main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
