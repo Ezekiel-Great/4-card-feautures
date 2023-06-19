@@ -25,9 +25,11 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ![](./screenshot.jpg)
 
 ![Alt text](images/4-card-features.png)
-Mobile-view
+
+## Mobile-view
 ![Alt text](images/4-card-feautures-desktop-view.png)
-Desktop-view
+
+## Desktop-view
 ### Links
 
 - Solution URL: [4-card-feautures](https://github.com/Ezekiel-Great/4-card-feautures/tree/main)
