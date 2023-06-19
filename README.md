@@ -30,7 +30,7 @@ Mobile-view
 Desktop-view
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [4-card-feautures](https://github.com/Ezekiel-Great/4-card-feautures/tree/main))
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -48,7 +48,7 @@ Desktop-view
 ```css
   .container .content {
     display: grid;
-    grid-template-columns:           repeat(3, 1fr);
+    grid-template-columns:repeat(3, 1fr);
     gap: 30px;
   }
 ```
@@ -58,7 +58,7 @@ Desktop-view
 
 
 - Frontend Mentor - [@Ezekiel-Great](https://www.frontendmentor.io/profile/Ezekiel-Great)
-- Twitter - [@yeshua_codeit)](https://www.twitter.com/yeshua_codeit))
+- Twitter - [@yeshua_codeit](https://www.twitter.com/yeshua_codeit)
 
 
 ## Acknowledgments
