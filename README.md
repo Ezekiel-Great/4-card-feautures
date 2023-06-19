@@ -29,7 +29,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [4-card-feautures](https://github.com/Ezekiel-Great/4-card-feautures/tree/main)
-- Live Site URL: [Add live site URL here](https://4-card-features.netlify.app)
+- Live Site URL: [Add live site](https://4-card-features.netlify.app)
 
 ## My process
 
